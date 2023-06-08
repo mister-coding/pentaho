@@ -1,0 +1,81 @@
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - ERROR (version 9.4.0.0-343, build 0.0 from 2022-11-08 07.50.27 by buildguy) : Could not execute command
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - ERROR (version 9.4.0.0-343, build 0.0 from 2022-11-08 07.50.27 by buildguy) : java.io.IOException: Cannot run program "lsb_release": error=2, No such file or directory
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at java.lang.Runtime.exec(Runtime.java:593)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at java.lang.Runtime.exec(Runtime.java:423)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at java.lang.Runtime.exec(Runtime.java:320)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at org.pentaho.di.ui.util.EnvironmentUtils.ExecuteCommand(EnvironmentUtils.java:170)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at org.pentaho.di.ui.util.EnvironmentUtils.getLinuxDistribution(EnvironmentUtils.java:155)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at org.pentaho.di.ui.util.EnvironmentUtils.getEnvironmentName(EnvironmentUtils.java:119)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at org.pentaho.di.ui.util.EnvironmentUtils.isWebkitUnavailable(EnvironmentUtils.java:98)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at org.pentaho.di.ui.spoon.Spoon.checkEnvironment(Spoon.java:9460)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at org.pentaho.di.ui.spoon.Spoon.start(Spoon.java:9538)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at org.pentaho.di.ui.spoon.Spoon.main(Spoon.java:722)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at java.lang.reflect.Method.invoke(Method.java:498)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at org.pentaho.commons.launcher.Launcher.main(Launcher.java:92)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - Caused by: java.io.IOException: error=2, No such file or directory
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at java.lang.UNIXProcess.forkAndExec(Native Method)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at java.lang.UNIXProcess.<init>(UNIXProcess.java:247)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at java.lang.ProcessImpl.start(ProcessImpl.java:134)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	... 15 more
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - ERROR (version 9.4.0.0-343, build 0.0 from 2022-11-08 07.50.27 by buildguy) : Could not execute command
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - ERROR (version 9.4.0.0-343, build 0.0 from 2022-11-08 07.50.27 by buildguy) : java.io.IOException: Cannot run program "lsb_release": error=2, No such file or directory
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at java.lang.Runtime.exec(Runtime.java:593)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at java.lang.Runtime.exec(Runtime.java:423)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at java.lang.Runtime.exec(Runtime.java:320)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at org.pentaho.di.ui.util.EnvironmentUtils.ExecuteCommand(EnvironmentUtils.java:170)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at org.pentaho.di.ui.util.EnvironmentUtils.getLinuxDistribution(EnvironmentUtils.java:155)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at org.pentaho.di.ui.util.EnvironmentUtils.getEnvironmentName(EnvironmentUtils.java:119)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at org.pentaho.di.ui.util.EnvironmentUtils.isUnsupportedBrowserEnvironment(EnvironmentUtils.java:58)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at org.pentaho.di.ui.spoon.Spoon.checkEnvironment(Spoon.java:9461)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at org.pentaho.di.ui.spoon.Spoon.start(Spoon.java:9538)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at org.pentaho.di.ui.spoon.Spoon.main(Spoon.java:722)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at java.lang.reflect.Method.invoke(Method.java:498)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at org.pentaho.commons.launcher.Launcher.main(Launcher.java:92)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - Caused by: java.io.IOException: error=2, No such file or directory
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at java.lang.UNIXProcess.forkAndExec(Native Method)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at java.lang.UNIXProcess.<init>(UNIXProcess.java:247)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at java.lang.ProcessImpl.start(ProcessImpl.java:134)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	... 15 more
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - ERROR (version 9.4.0.0-343, build 0.0 from 2022-11-08 07.50.27 by buildguy) : Could not open a browser
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - ERROR (version 9.4.0.0-343, build 0.0 from 2022-11-08 07.50.27 by buildguy) : org.eclipse.swt.SWTError: No more handles because no underlying browser available.
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d -    SWT on GTK 2.x detected. It is reccomended to use SWT on GTK 3.x and Webkit2 API.
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at org.eclipse.swt.SWT.error(SWT.java:4621)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at org.eclipse.swt.browser.Browser.<init>(Browser.java:128)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at org.pentaho.di.ui.util.EnvironmentUtils.getUserAgent(EnvironmentUtils.java:81)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at org.pentaho.di.ui.util.EnvironmentUtils.getBrowserName(EnvironmentUtils.java:183)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at org.pentaho.di.ui.spoon.Spoon.checkEnvironment(Spoon.java:9462)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at org.pentaho.di.ui.spoon.Spoon.start(Spoon.java:9538)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at org.pentaho.di.ui.spoon.Spoon.main(Spoon.java:722)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at java.lang.reflect.Method.invoke(Method.java:498)
+2023/06/08 20:11:03 - org.pentaho.di.ui.util.EnvironmentUtils@3ff54f3d - 	at org.pentaho.commons.launcher.Launcher.main(Launcher.java:92)
+Graphics2D from BufferedImage lacks BUFFERED_IMAGE hint
+2023/06/08 20:15:05 - Spoon - Spoon
+2023/06/08 20:15:59 - Spoon - Save file as...
+2023/06/08 20:16:09 - Spoon - Spoon
+2023/06/08 20:16:46 - Spoon - Starting job...
+2023/06/08 20:16:46 - Job 1 - Start of job execution
+2023/06/08 20:16:46 - Job 1 - Starting entry [Transformation]
+2023/06/08 20:16:46 - Transformation - Using run configuration [Pentaho local]
+2023/06/08 20:16:46 - TEst - Dispatching started for transformation [TEst]
+2023/06/08 20:16:46 - Table input.0 - Finished reading query, closing connection
+2023/06/08 20:16:46 - Select values.0 - Finished processing (I=0, O=0, R=4, W=4, U=0, E=0)
+2023/06/08 20:16:46 - Table input.0 - Finished processing (I=4, O=0, R=0, W=4, U=0, E=0)
+2023/06/08 20:16:46 - Dummy (do nothing).0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2023/06/08 20:16:46 - Delete.0 - Finished processing (I=0, O=0, R=2, W=2, U=2, E=0)
+2023/06/08 20:16:46 - Job 1 - Finished job entry [Transformation] (result=[true])
+2023/06/08 20:16:46 - Job 1 - Job execution finished
+2023/06/08 20:16:46 - Spoon - Job has ended.

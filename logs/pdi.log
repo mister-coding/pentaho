@@ -1,0 +1,655 @@
+2023-06-08 11:56:16.435 INFO  <ModalContext> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Dispatching started for transformation [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian]
+2023-06-08 11:56:16.726 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - T. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 11:56:16.728 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - dummy> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=4, W=4, U=0, E=0)
+2023-06-08 11:56:16.749 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - T. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished processing (I=4, O=0, R=0, W=4, U=0, E=0)
+2023-06-08 11:57:45.786 INFO  <ModalContext> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Dispatching started for transformation [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian]
+2023-06-08 11:57:46.780 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - T. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 11:57:46.780 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - dummy> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=889, W=888, U=0, E=0)
+2023-06-08 11:57:46.919 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - T. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished processing (I=1003, O=0, R=0, W=1001, U=0, E=0)
+2023-06-08 11:58:18.095 INFO  <ModalContext> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Dispatching started for transformation [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian]
+2023-06-08 11:58:18.829 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - dummy> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=899, W=898, U=0, E=0)
+2023-06-08 11:58:18.829 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - T. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 11:58:18.853 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - T. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished processing (I=1003, O=0, R=0, W=1001, U=0, E=0)
+2023-06-08 11:58:35.778 INFO  <ModalContext> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Dispatching started for transformation [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian]
+2023-06-08 11:58:36.258 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - T. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 11:58:36.261 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - dummy> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=1222, W=1222, U=0, E=0)
+2023-06-08 11:58:36.279 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - T. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished processing (I=1222, O=0, R=0, W=1222, U=0, E=0)
+2023-06-08 12:13:58.776 INFO  <ModalContext> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Dispatching started for transformation [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian]
+2023-06-08 12:13:59.037 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - T/R. KP Question Package Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 12:13:59.041 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - dummy> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=15, W=15, U=0, E=0)
+2023-06-08 12:13:59.059 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - T/R. KP Question Package Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished processing (I=15, O=0, R=0, W=15, U=0, E=0)
+2023-06-08 12:19:32.147 INFO  <ModalContext> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Dispatching started for transformation [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian]
+2023-06-08 12:19:32.392 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - T/R. KP Question Package Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 12:19:32.394 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - dummy> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2023-06-08 12:19:32.414 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - T/R. KP Question Package Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished processing (I=1, O=0, R=0, W=1, U=0, E=0)
+2023-06-08 12:20:44.329 INFO  <ModalContext> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Dispatching started for transformation [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian]
+2023-06-08 12:20:45.266 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 12:20:45.266 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - dummy> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=888, W=887, U=0, E=0)
+2023-06-08 12:20:45.294 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished processing (I=1003, O=0, R=0, W=1001, U=0, E=0)
+2023-06-08 12:21:19.057 INFO  <main> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Dispatching started for transformation [Ulangan Harian]
+2023-06-08 12:21:19.740 INFO  <Ulangan Harian - T/R. KP Question Package Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 12:21:19.765 INFO  <Ulangan Harian - T/R. KP Question Package Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=1, O=0, R=0, W=1, U=0, E=0)
+2023-06-08 12:21:31.573 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 12:21:31.652 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=1129, O=0, R=0, W=1127, U=0, E=0)
+2023-06-08 12:21:31.667 INFO  <Ulangan Harian - Mapping Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=1001, W=1001, U=0, E=0)
+2023-06-08 12:27:21.253 INFO  <main> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Dispatching started for transformation [Ulangan Harian]
+2023-06-08 12:27:21.261 ERROR <init of Mapping New Paper.0 (Thread-104)> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  At least one of select, remove or meta screens should contain data.
+2023-06-08 12:27:21.261 ERROR <init of Mapping New Paper.0 (Thread-104)> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Error initializing step [Mapping New Paper]
+2023-06-08 12:27:21.509 ERROR <main> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Step [Mapping New Paper.0] failed to initialize!
+2023-06-08 12:27:21.509 INFO  <main> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 12:27:21.510 INFO  <main> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 12:27:25.291 ERROR <main> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Errors detected!
+2023-06-08 12:27:59.906 INFO  <ModalContext> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Dispatching started for transformation [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian]
+2023-06-08 12:28:00.180 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - T/R. KP Question Package Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 12:28:00.182 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - dummy> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2023-06-08 12:28:00.203 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - T/R. KP Question Package Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished processing (I=1, O=0, R=0, W=1, U=0, E=0)
+2023-06-08 12:41:09.128 INFO  <Thread-135> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Dispatching started for transformation [Ulangan Harian]
+2023-06-08 12:41:09.444 INFO  <Ulangan Harian - T/R. KP Question Package Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 12:41:09.466 INFO  <Ulangan Harian - T/R. KP Question Package Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=1, O=0, R=0, W=1, U=0, E=0)
+2023-06-08 12:41:09.603 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 12:41:09.615 INFO  <Ulangan Harian - Paper Master - Question Package Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=1223, W=1222, U=0, E=0)
+2023-06-08 12:41:09.618 INFO  <Ulangan Harian - Question Pakcage Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=1222, W=1222, U=0, E=0)
+2023-06-08 12:41:09.621 INFO  <Ulangan Harian - Dummy (do nothing)> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=1222, W=1222, U=0, E=0)
+2023-06-08 12:41:09.625 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=1222, O=0, R=0, W=1222, U=0, E=0)
+2023-06-08 12:41:34.745 INFO  <main> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Dispatching started for transformation [Ulangan Harian]
+2023-06-08 12:41:35.067 INFO  <Ulangan Harian - T/R. KP Question Package Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 12:41:35.089 INFO  <Ulangan Harian - T/R. KP Question Package Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=1, O=0, R=0, W=1, U=0, E=0)
+2023-06-08 12:41:35.239 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 12:41:35.264 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=1222, O=0, R=0, W=1222, U=0, E=0)
+2023-06-08 12:41:53.182 INFO  <Ulangan Harian - Paper Master - Question Package Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=1223, W=1222, U=0, E=0)
+2023-06-08 12:41:53.255 INFO  <Ulangan Harian - Question Pakcage Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=1222, W=1222, U=0, E=0)
+2023-06-08 12:41:53.257 INFO  <Ulangan Harian - Dummy (do nothing)> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=1222, W=1222, U=0, E=0)
+2023-06-08 13:56:08.508 INFO  <ModalContext> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Dispatching started for transformation [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian]
+2023-06-08 13:56:09.229 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 13:56:09.229 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - dummy> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=799, W=798, U=0, E=0)
+2023-06-08 13:56:23.693 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished processing (I=1003, O=0, R=0, W=1001, U=0, E=0)
+2023-06-08 14:08:33.808 INFO  <ModalContext> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Dispatching started for transformation [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian]
+2023-06-08 14:08:34.738 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - dummy> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=805, W=804, U=0, E=0)
+2023-06-08 14:08:34.738 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 14:08:54.285 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished processing (I=1003, O=0, R=0, W=1001, U=0, E=0)
+2023-06-08 14:11:04.387 INFO  <Thread-193> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Dispatching started for transformation [Ulangan Harian]
+2023-06-08 14:11:04.813 INFO  <Ulangan Harian - T/R. KP Question Package Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 14:11:04.851 INFO  <Ulangan Harian - T/R. KP Question Package Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=1, O=0, R=0, W=1, U=0, E=0)
+2023-06-08 14:11:09.529 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 50000
+2023-06-08 14:11:09.530 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 50000
+2023-06-08 14:11:09.541 INFO  <Ulangan Harian - Question Pakcage> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 50000
+2023-06-08 14:11:19.580 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 100000
+2023-06-08 14:11:19.581 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 100000
+2023-06-08 14:11:19.602 INFO  <Ulangan Harian - Question Pakcage> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 100000
+2023-06-08 14:11:23.702 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 150000
+2023-06-08 14:11:23.705 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 150000
+2023-06-08 14:11:23.718 INFO  <Ulangan Harian - Question Pakcage> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 150000
+2023-06-08 14:11:27.392 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 14:11:27.395 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=192308, W=192307, U=0, E=0)
+2023-06-08 14:11:27.398 INFO  <Ulangan Harian - Question Pakcage> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=192307, W=192307, U=0, E=0)
+2023-06-08 14:11:27.487 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=192307, O=0, R=0, W=192307, U=0, E=0)
+2023-06-08 14:15:11.967 INFO  <ModalContext> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Dispatching started for transformation [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian]
+2023-06-08 14:15:12.244 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - T/O. Emw Class> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 14:15:12.247 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - dummy> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2023-06-08 14:15:12.264 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - T/O. Emw Class> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished processing (I=12, O=0, R=0, W=12, U=0, E=0)
+2023-06-08 14:32:02.824 INFO  <Thread-230> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Dispatching started for transformation [Ulangan Harian]
+2023-06-08 14:32:03.122 INFO  <Ulangan Harian - T/O. Emw Class> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 14:32:03.122 ERROR <Ulangan Harian - Select values> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Couldn't find field 'order' in row!
+2023-06-08 14:32:03.122 INFO  <Ulangan Harian - Select values> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=1, W=0, U=0, E=1)
+2023-06-08 14:32:03.123 WARN  <Ulangan Harian - Select values> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Transformation detected one or more steps with errors.
+2023-06-08 14:32:03.123 WARN  <Ulangan Harian - Select values> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Transformation is killing the other steps!
+2023-06-08 14:32:03.141 INFO  <Ulangan Harian - T/R. KP Question Package Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 14:32:03.150 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 14:32:03.155 INFO  <Ulangan Harian - T/O. Emw Class> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=12, O=0, R=0, W=12, U=0, E=0)
+2023-06-08 14:32:03.161 INFO  <Ulangan Harian - T/R. KP Question Package Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=1, O=0, R=0, W=0, U=0, E=0)
+2023-06-08 14:32:15.651 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=2, O=0, R=0, W=0, U=0, E=0)
+2023-06-08 14:32:15.652 ERROR <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Errors detected!
+2023-06-08 14:32:15.653 ERROR <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Errors detected!
+2023-06-08 14:32:15.660 ERROR <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Errors detected!
+2023-06-08 14:33:01.937 INFO  <Thread-252> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Dispatching started for transformation [Ulangan Harian]
+2023-06-08 14:33:02.219 INFO  <Ulangan Harian - T/O. Emw Class> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 14:33:02.221 INFO  <Ulangan Harian - Select values> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2023-06-08 14:33:02.223 INFO  <Ulangan Harian - Dummy (do nothing) 2> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2023-06-08 14:33:02.237 INFO  <Ulangan Harian - T/R. KP Question Package Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 14:33:02.249 INFO  <Ulangan Harian - T/O. Emw Class> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=12, O=0, R=0, W=12, U=0, E=0)
+2023-06-08 14:33:02.261 INFO  <Ulangan Harian - T/R. KP Question Package Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=1, O=0, R=0, W=1, U=0, E=0)
+2023-06-08 14:33:06.136 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 50000
+2023-06-08 14:33:06.137 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 50000
+2023-06-08 14:33:06.145 INFO  <Ulangan Harian - Question Pakcage> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 50000
+2023-06-08 14:33:09.302 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 100000
+2023-06-08 14:33:09.303 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 100000
+2023-06-08 14:33:09.350 INFO  <Ulangan Harian - Question Pakcage> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 100000
+2023-06-08 14:33:12.521 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 150000
+2023-06-08 14:33:12.524 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 150000
+2023-06-08 14:33:12.531 INFO  <Ulangan Harian - Question Pakcage> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 150000
+2023-06-08 14:33:16.092 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 14:33:16.095 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=192308, W=192307, U=0, E=0)
+2023-06-08 14:33:16.098 INFO  <Ulangan Harian - Question Pakcage> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=192307, W=192307, U=0, E=0)
+2023-06-08 14:33:16.151 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=192307, O=0, R=0, W=192307, U=0, E=0)
+2023-06-08 14:48:22.975 INFO  <Thread-277> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Dispatching started for transformation [Ulangan Harian]
+2023-06-08 14:48:23.441 INFO  <Ulangan Harian - T/O. Emw Class> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 14:48:23.442 INFO  <Ulangan Harian - T/R. KP Question Package Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 14:48:23.443 INFO  <Ulangan Harian - Select values> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2023-06-08 14:48:23.447 INFO  <Ulangan Harian - Dummy (do nothing) 2> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=6, W=6, U=0, E=0)
+2023-06-08 14:48:23.499 INFO  <Ulangan Harian - T/R. KP Question Package Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=1, O=0, R=0, W=1, U=0, E=0)
+2023-06-08 14:48:23.500 INFO  <Ulangan Harian - T/O. Emw Class> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=12, O=0, R=0, W=12, U=0, E=0)
+2023-06-08 14:48:25.660 INFO  <Ulangan Harian - Update> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=6, O=0, R=6, W=6, U=6, E=0)
+2023-06-08 14:48:33.706 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 50000
+2023-06-08 14:48:33.706 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 50000
+2023-06-08 14:48:33.712 INFO  <Ulangan Harian - Question Pakcage> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 50000
+2023-06-08 14:48:40.101 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 100000
+2023-06-08 14:48:40.102 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 100000
+2023-06-08 14:48:40.126 INFO  <Ulangan Harian - Question Pakcage> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 100000
+2023-06-08 14:48:45.542 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 150000
+2023-06-08 14:48:45.561 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 150000
+2023-06-08 14:48:45.574 INFO  <Ulangan Harian - Question Pakcage> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 150000
+2023-06-08 14:48:54.457 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 14:48:54.460 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=192308, W=192307, U=0, E=0)
+2023-06-08 14:48:54.463 INFO  <Ulangan Harian - Question Pakcage> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=192307, W=192307, U=0, E=0)
+2023-06-08 14:48:54.524 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=192307, O=0, R=0, W=192307, U=0, E=0)
+2023-06-08 14:49:38.072 INFO  <main> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Dispatching started for transformation [Ulangan Harian]
+2023-06-08 14:49:38.377 INFO  <Ulangan Harian - T/O. Emw Class> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 14:49:38.380 INFO  <Ulangan Harian - Select values> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2023-06-08 14:49:38.383 INFO  <Ulangan Harian - Dummy (do nothing) 2> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=6, W=6, U=0, E=0)
+2023-06-08 14:49:38.388 INFO  <Ulangan Harian - T/R. KP Question Package Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 14:49:38.422 INFO  <Ulangan Harian - T/O. Emw Class> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=12, O=0, R=0, W=12, U=0, E=0)
+2023-06-08 14:49:38.428 INFO  <Ulangan Harian - T/R. KP Question Package Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=1, O=0, R=0, W=1, U=0, E=0)
+2023-06-08 14:49:39.734 INFO  <Ulangan Harian - Update> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=6, O=0, R=6, W=6, U=0, E=0)
+2023-06-08 14:49:45.453 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 50000
+2023-06-08 14:49:45.455 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 50000
+2023-06-08 14:49:45.456 INFO  <Ulangan Harian - Question Pakcage> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 50000
+2023-06-08 14:49:50.871 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 100000
+2023-06-08 14:49:50.872 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 100000
+2023-06-08 14:49:50.879 INFO  <Ulangan Harian - Question Pakcage> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 100000
+2023-06-08 14:49:55.395 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 150000
+2023-06-08 14:49:55.404 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 150000
+2023-06-08 14:49:55.405 INFO  <Ulangan Harian - Question Pakcage> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 150000
+2023-06-08 14:50:01.605 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 14:50:01.607 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=192308, W=192307, U=0, E=0)
+2023-06-08 14:50:01.611 INFO  <Ulangan Harian - Question Pakcage> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=192307, W=192307, U=0, E=0)
+2023-06-08 14:50:01.649 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=192307, O=0, R=0, W=192307, U=0, E=0)
+2023-06-08 14:50:53.156 INFO  <Thread-321> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Dispatching started for transformation [Ulangan Harian]
+2023-06-08 14:50:53.923 INFO  <Ulangan Harian - T/O. Emw Class> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 14:50:53.926 INFO  <Ulangan Harian - Select values> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2023-06-08 14:50:53.928 INFO  <Ulangan Harian - Dummy (do nothing) 2> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=6, W=6, U=0, E=0)
+2023-06-08 14:50:53.938 INFO  <Ulangan Harian - T/R. KP Question Package Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 14:50:53.947 INFO  <Ulangan Harian - T/O. Emw Class> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=12, O=0, R=0, W=12, U=0, E=0)
+2023-06-08 14:50:53.966 INFO  <Ulangan Harian - T/R. KP Question Package Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=1, O=0, R=0, W=1, U=0, E=0)
+2023-06-08 14:50:54.810 INFO  <Ulangan Harian - Update> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=6, O=0, R=6, W=6, U=0, E=0)
+2023-06-08 14:51:00.270 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 50000
+2023-06-08 14:51:00.271 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 50000
+2023-06-08 14:51:00.275 INFO  <Ulangan Harian - Question Pakcage> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 50000
+2023-06-08 14:51:04.270 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 100000
+2023-06-08 14:51:04.271 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 100000
+2023-06-08 14:51:04.301 INFO  <Ulangan Harian - Question Pakcage> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 100000
+2023-06-08 14:51:07.689 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 150000
+2023-06-08 14:51:07.693 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 150000
+2023-06-08 14:51:07.696 INFO  <Ulangan Harian - Question Pakcage> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 150000
+2023-06-08 14:51:10.944 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 14:51:10.947 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=192308, W=192307, U=0, E=0)
+2023-06-08 14:51:10.950 INFO  <Ulangan Harian - Question Pakcage> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=192307, W=192307, U=0, E=0)
+2023-06-08 14:51:10.976 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=192307, O=0, R=0, W=192307, U=0, E=0)
+2023-06-08 14:52:15.588 INFO  <Thread-346> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Dispatching started for transformation [Ulangan Harian]
+2023-06-08 14:52:15.906 INFO  <Ulangan Harian - T/O. Emw Class> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 14:52:15.910 INFO  <Ulangan Harian - Select values> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2023-06-08 14:52:15.921 INFO  <Ulangan Harian - T/R. KP Question Package Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 14:52:15.956 INFO  <Ulangan Harian - T/O. Emw Class> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=12, O=0, R=0, W=12, U=0, E=0)
+2023-06-08 14:52:15.969 INFO  <Ulangan Harian - T/R. KP Question Package Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=1, O=0, R=0, W=1, U=0, E=0)
+2023-06-08 14:52:23.062 INFO  <Ulangan Harian - Update T/R Class> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=12, O=0, R=12, W=12, U=6, E=0)
+2023-06-08 14:52:23.361 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 50000
+2023-06-08 14:52:23.362 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 50000
+2023-06-08 14:52:23.420 INFO  <Ulangan Harian - Question Pakcage> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 50000
+2023-06-08 14:52:29.035 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 100000
+2023-06-08 14:52:29.036 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 100000
+2023-06-08 14:52:29.042 INFO  <Ulangan Harian - Question Pakcage> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 100000
+2023-06-08 14:52:40.839 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 150000
+2023-06-08 14:52:40.850 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 150000
+2023-06-08 14:52:40.864 INFO  <Ulangan Harian - Question Pakcage> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 150000
+2023-06-08 14:52:52.070 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 14:52:52.073 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=192308, W=192307, U=0, E=0)
+2023-06-08 14:52:52.076 INFO  <Ulangan Harian - Question Pakcage> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=192307, W=192307, U=0, E=0)
+2023-06-08 14:52:52.094 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=192307, O=0, R=0, W=192307, U=0, E=0)
+2023-06-08 14:53:23.171 INFO  <Thread-369> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Dispatching started for transformation [Ulangan Harian]
+2023-06-08 14:53:23.618 INFO  <Ulangan Harian - T/O. Emw Class> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 14:53:23.620 INFO  <Ulangan Harian - Select values> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2023-06-08 14:53:23.637 INFO  <Ulangan Harian - T/O. Emw Class> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=12, O=0, R=0, W=12, U=0, E=0)
+2023-06-08 14:53:23.646 INFO  <Ulangan Harian - T/R. KP Question Package Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 14:53:23.682 INFO  <Ulangan Harian - T/R. KP Question Package Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=1, O=0, R=0, W=1, U=0, E=0)
+2023-06-08 14:53:25.729 INFO  <Ulangan Harian - Update T/R Class> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=12, O=0, R=12, W=12, U=0, E=0)
+2023-06-08 14:53:36.643 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 50000
+2023-06-08 14:53:36.644 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 50000
+2023-06-08 14:53:36.660 INFO  <Ulangan Harian - Question Pakcage> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 50000
+2023-06-08 14:53:44.899 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 100000
+2023-06-08 14:53:44.900 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 100000
+2023-06-08 14:53:44.902 INFO  <Ulangan Harian - Question Pakcage> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 100000
+2023-06-08 14:53:49.987 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 150000
+2023-06-08 14:53:50.004 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 150000
+2023-06-08 14:53:50.017 INFO  <Ulangan Harian - Question Pakcage> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 150000
+2023-06-08 14:53:53.097 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 14:53:53.100 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=192308, W=192307, U=0, E=0)
+2023-06-08 14:53:53.103 INFO  <Ulangan Harian - Question Pakcage> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=192307, W=192307, U=0, E=0)
+2023-06-08 14:53:53.127 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=192307, O=0, R=0, W=192307, U=0, E=0)
+2023-06-08 15:16:00.225 INFO  <ModalContext> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Dispatching started for transformation [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian]
+2023-06-08 15:16:00.944 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - dummy> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=805, W=804, U=0, E=0)
+2023-06-08 15:16:00.944 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 15:16:17.180 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished processing (I=1003, O=0, R=0, W=1001, U=0, E=0)
+2023-06-08 15:19:40.114 INFO  <ModalContext> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Dispatching started for transformation [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian]
+2023-06-08 15:19:40.873 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - dummy> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=838, W=837, U=0, E=0)
+2023-06-08 15:19:40.873 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 15:20:05.189 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished processing (I=1003, O=0, R=0, W=1001, U=0, E=0)
+2023-06-08 16:10:40.241 INFO  <ModalContext> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Dispatching started for transformation [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian]
+2023-06-08 16:10:40.978 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - dummy> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=902, W=901, U=0, E=0)
+2023-06-08 16:10:40.978 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 16:10:58.601 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished processing (I=1003, O=0, R=0, W=1001, U=0, E=0)
+2023-06-08 16:15:10.769 INFO  <ModalContext> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Dispatching started for transformation [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian]
+2023-06-08 16:15:11.044 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - T/R. Chapter> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 16:15:11.046 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - dummy> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=867, W=867, U=0, E=0)
+2023-06-08 16:15:11.066 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - T/R. Chapter> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished processing (I=867, O=0, R=0, W=867, U=0, E=0)
+2023-06-08 16:22:01.301 INFO  <ModalContext> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Dispatching started for transformation [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian]
+2023-06-08 16:22:01.569 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - T/R. Chapter> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 16:22:01.572 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - dummy> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=867, W=867, U=0, E=0)
+2023-06-08 16:22:01.589 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - T/R. Chapter> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished processing (I=867, O=0, R=0, W=867, U=0, E=0)
+2023-06-08 16:25:04.607 INFO  <ModalContext> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Dispatching started for transformation [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian]
+2023-06-08 16:25:04.840 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - T/R. Subject> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 16:25:04.843 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - dummy> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=147, W=147, U=0, E=0)
+2023-06-08 16:25:04.860 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - T/R. Subject> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished processing (I=147, O=0, R=0, W=147, U=0, E=0)
+2023-06-08 16:32:25.121 INFO  <Thread-512> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Dispatching started for transformation [Ulangan Harian]
+2023-06-08 16:32:25.481 INFO  <Ulangan Harian - T/O. Emw Class> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 16:32:25.483 INFO  <Ulangan Harian - Select values> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2023-06-08 16:32:25.486 INFO  <Ulangan Harian - T/R. KP Question Package Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 16:32:25.486 INFO  <Ulangan Harian - T/R. Subject> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 16:32:25.533 INFO  <Ulangan Harian - T/O. Emw Class> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=12, O=0, R=0, W=12, U=0, E=0)
+2023-06-08 16:32:25.534 INFO  <Ulangan Harian - T/R. KP Question Package Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=1, O=0, R=0, W=1, U=0, E=0)
+2023-06-08 16:32:25.534 INFO  <Ulangan Harian - T/R. Subject> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=147, O=0, R=0, W=147, U=0, E=0)
+2023-06-08 16:32:25.536 INFO  <Ulangan Harian - T/R. Chapter> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 16:32:25.688 ERROR <Ulangan Harian - Paper Subject> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Unexpected error
+2023-06-08 16:32:25.688 ERROR <Ulangan Harian - Paper Subject> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  org.pentaho.di.core.exception.KettleStepException: 
+Field [old_subject_id] not found in row [[4], [Yakin udah menguasai Bab ini? Yuk, tes pemahamanmu sekarang!], [Ketenagakerjaan Indonesia], [Ketenagakerjaan Indonesia], [525664], [525662], [1342]]
+
+	at org.pentaho.di.trans.steps.streamlookup.StreamLookup.processRow(StreamLookup.java:419)
+	at org.pentaho.di.trans.step.RunThread.run(RunThread.java:62)
+	at java.lang.Thread.run(Thread.java:750)
+
+2023-06-08 16:32:25.689 INFO  <Ulangan Harian - Paper Subject> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=148, W=0, U=0, E=1)
+2023-06-08 16:32:25.689 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=332, W=331, U=0, E=0)
+2023-06-08 16:32:25.689 WARN  <Ulangan Harian - Paper Subject> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Transformation detected one or more steps with errors.
+2023-06-08 16:32:25.689 WARN  <Ulangan Harian - Paper Subject> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Transformation is killing the other steps!
+2023-06-08 16:32:25.689 INFO  <Ulangan Harian - Question Pakcage> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=231, W=231, U=0, E=0)
+2023-06-08 16:32:25.690 INFO  <Ulangan Harian - Paper - Chapter> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=998, W=131, U=0, E=0)
+2023-06-08 16:32:25.721 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 16:32:25.733 INFO  <Ulangan Harian - T/R. Chapter> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=867, O=0, R=0, W=867, U=0, E=0)
+2023-06-08 16:32:26.022 INFO  <Ulangan Harian - Update T/R Class> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=1, O=0, R=1, W=0, U=0, E=0)
+2023-06-08 16:33:11.705 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=385, O=0, R=0, W=383, U=0, E=0)
+2023-06-08 16:33:11.705 ERROR <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Errors detected!
+2023-06-08 16:33:11.706 ERROR <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Errors detected!
+2023-06-08 16:33:11.707 ERROR <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Errors detected!
+2023-06-08 16:34:49.221 INFO  <Thread-546> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Dispatching started for transformation [Ulangan Harian]
+2023-06-08 16:34:49.780 INFO  <Ulangan Harian - T/O. Emw Class> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 16:34:49.783 INFO  <Ulangan Harian - Select values> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2023-06-08 16:34:49.909 INFO  <Ulangan Harian - T/R. KP Question Package Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 16:34:49.910 INFO  <Ulangan Harian - T/R. Subject> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 16:34:49.991 INFO  <Ulangan Harian - T/O. Emw Class> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=12, O=0, R=0, W=12, U=0, E=0)
+2023-06-08 16:34:50.030 INFO  <Ulangan Harian - T/R. KP Question Package Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=1, O=0, R=0, W=1, U=0, E=0)
+2023-06-08 16:34:50.030 INFO  <Ulangan Harian - T/R. Subject> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=147, O=0, R=0, W=147, U=0, E=0)
+2023-06-08 16:34:50.207 INFO  <Ulangan Harian - T/R. Chapter> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 16:34:50.293 INFO  <Ulangan Harian - T/R. Chapter> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=867, O=0, R=0, W=867, U=0, E=0)
+2023-06-08 16:34:51.814 INFO  <Ulangan Harian - Update T/R Class> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=12, O=0, R=12, W=12, U=0, E=0)
+2023-06-08 16:35:04.917 INFO  <Ulangan Harian - Paper - Chapter> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 50000
+2023-06-08 16:35:05.097 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 50000
+2023-06-08 16:35:05.116 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 50000
+2023-06-08 16:35:05.121 INFO  <Ulangan Harian - Question Pakcage> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 50000
+2023-06-08 16:35:05.123 INFO  <Ulangan Harian - Paper Subject> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 50000
+2023-06-08 16:35:05.136 INFO  <Ulangan Harian - Dummy (do nothing) 2> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Linenr 50000
+2023-06-08 16:35:18.980 INFO  <Ulangan Harian - Paper - Chapter> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 100000
+2023-06-08 16:35:19.097 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 100000
+2023-06-08 16:35:19.098 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 100000
+2023-06-08 16:35:19.126 INFO  <Ulangan Harian - Question Pakcage> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 100000
+2023-06-08 16:35:19.128 INFO  <Ulangan Harian - Paper Subject> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 100000
+2023-06-08 16:35:19.154 INFO  <Ulangan Harian - Dummy (do nothing) 2> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Linenr 100000
+2023-06-08 16:35:30.467 INFO  <Ulangan Harian - Paper - Chapter> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 150000
+2023-06-08 16:35:30.633 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 150000
+2023-06-08 16:35:30.634 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 150000
+2023-06-08 16:35:30.659 INFO  <Ulangan Harian - Question Pakcage> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 150000
+2023-06-08 16:35:30.678 INFO  <Ulangan Harian - Paper Subject> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 150000
+2023-06-08 16:35:30.741 INFO  <Ulangan Harian - Dummy (do nothing) 2> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Linenr 150000
+2023-06-08 16:35:39.719 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 16:35:39.723 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=192308, W=192307, U=0, E=0)
+2023-06-08 16:35:39.726 INFO  <Ulangan Harian - Question Pakcage> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=192307, W=192307, U=0, E=0)
+2023-06-08 16:35:39.729 INFO  <Ulangan Harian - Paper - Chapter> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=193174, W=192307, U=0, E=0)
+2023-06-08 16:35:39.731 INFO  <Ulangan Harian - Paper Subject> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=192454, W=192307, U=0, E=0)
+2023-06-08 16:35:39.734 INFO  <Ulangan Harian - Dummy (do nothing) 2> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=192307, W=192307, U=0, E=0)
+2023-06-08 16:35:39.916 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=192307, O=0, R=0, W=192307, U=0, E=0)
+2023-06-08 16:41:52.102 INFO  <ModalContext> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Dispatching started for transformation [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian]
+2023-06-08 16:41:52.824 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 16:41:52.824 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - dummy> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=925, W=924, U=0, E=0)
+2023-06-08 16:42:17.637 INFO  </media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr : Ulangan Harian.ktr]  Finished processing (I=1003, O=0, R=0, W=1001, U=0, E=0)
+2023-06-08 16:44:56.208 INFO  <Thread-600> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Dispatching started for transformation [Ulangan Harian]
+2023-06-08 16:44:56.523 INFO  <Ulangan Harian - T/O. Emw Class> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 16:44:56.525 INFO  <Ulangan Harian - Select values> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2023-06-08 16:44:56.550 INFO  <Ulangan Harian - T/R. Subject> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 16:44:56.556 INFO  <Ulangan Harian - T/R. KP Question Package Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 16:44:56.600 INFO  <Ulangan Harian - T/O. Emw Class> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=12, O=0, R=0, W=12, U=0, E=0)
+2023-06-08 16:44:56.611 INFO  <Ulangan Harian - T/R. Subject> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=147, O=0, R=0, W=147, U=0, E=0)
+2023-06-08 16:44:56.611 INFO  <Ulangan Harian - T/R. KP Question Package Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=1, O=0, R=0, W=1, U=0, E=0)
+2023-06-08 16:44:56.629 INFO  <Ulangan Harian - T/R. Chapter> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 16:44:56.741 INFO  <Ulangan Harian - T/R. Chapter> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=867, O=0, R=0, W=867, U=0, E=0)
+2023-06-08 16:44:57.965 INFO  <Ulangan Harian - Update T/R Class> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=12, O=0, R=12, W=12, U=0, E=0)
+2023-06-08 16:45:01.401 INFO  <Ulangan Harian - Paper - Chapter> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 50000
+2023-06-08 16:45:01.460 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 50000
+2023-06-08 16:45:01.473 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 50000
+2023-06-08 16:45:01.489 INFO  <Ulangan Harian - Question Pakcage> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 50000
+2023-06-08 16:45:01.490 INFO  <Ulangan Harian - Paper Subject> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 50000
+2023-06-08 16:45:14.622 INFO  <Ulangan Harian - Paper - Chapter> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 100000
+2023-06-08 16:45:15.059 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 100000
+2023-06-08 16:45:15.078 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 100000
+2023-06-08 16:45:15.081 INFO  <Ulangan Harian - Question Pakcage> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 100000
+2023-06-08 16:45:15.105 INFO  <Ulangan Harian - Paper Subject> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 100000
+2023-06-08 16:45:15.165 INFO  <Ulangan Harian - Dummy (do nothing) 2> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Linenr 50000
+2023-06-08 16:45:15.165 INFO  <Ulangan Harian - Mapper> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 50000
+2023-06-08 16:45:15.228 INFO  <Ulangan Harian - Dummy (do nothing)> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Linenr 50000
+2023-06-08 16:45:32.662 INFO  <Ulangan Harian - Paper - Chapter> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 150000
+2023-06-08 16:45:32.776 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 150000
+2023-06-08 16:45:32.791 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 150000
+2023-06-08 16:45:32.818 INFO  <Ulangan Harian - Question Pakcage> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 150000
+2023-06-08 16:45:32.875 INFO  <Ulangan Harian - Paper Subject> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 150000
+2023-06-08 16:45:43.204 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 16:45:43.207 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=192308, W=192307, U=0, E=0)
+2023-06-08 16:45:43.210 INFO  <Ulangan Harian - Question Pakcage> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=192307, W=192307, U=0, E=0)
+2023-06-08 16:45:43.213 INFO  <Ulangan Harian - Paper - Chapter> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=193174, W=192307, U=0, E=0)
+2023-06-08 16:45:43.216 INFO  <Ulangan Harian - Paper Subject> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=192454, W=192307, U=0, E=0)
+2023-06-08 16:45:43.218 INFO  <Ulangan Harian - Dummy (do nothing) 2> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=96154, W=96154, U=0, E=0)
+2023-06-08 16:45:43.218 INFO  <Ulangan Harian - Mapper> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=96153, W=96153, U=0, E=0)
+2023-06-08 16:45:43.221 INFO  <Ulangan Harian - Dummy (do nothing)> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=96153, W=96153, U=0, E=0)
+2023-06-08 16:45:43.253 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=192307, O=0, R=0, W=192307, U=0, E=0)
+2023-06-08 16:46:13.661 INFO  <Thread-636> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Dispatching started for transformation [Ulangan Harian]
+2023-06-08 16:46:13.952 INFO  <Ulangan Harian - T/O. Emw Class> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 16:46:13.954 INFO  <Ulangan Harian - Select values> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2023-06-08 16:46:13.976 INFO  <Ulangan Harian - T/O. Emw Class> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=12, O=0, R=0, W=12, U=0, E=0)
+2023-06-08 16:46:13.976 INFO  <Ulangan Harian - T/R. Subject> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 16:46:13.977 INFO  <Ulangan Harian - T/R. KP Question Package Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 16:46:14.005 INFO  <Ulangan Harian - T/R. Chapter> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 16:46:14.038 INFO  <Ulangan Harian - T/R. Subject> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=147, O=0, R=0, W=147, U=0, E=0)
+2023-06-08 16:46:14.039 INFO  <Ulangan Harian - T/R. KP Question Package Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=1, O=0, R=0, W=1, U=0, E=0)
+2023-06-08 16:46:14.039 INFO  <Ulangan Harian - T/R. Chapter> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=867, O=0, R=0, W=867, U=0, E=0)
+2023-06-08 16:46:15.382 INFO  <Ulangan Harian - Update T/R Class> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=12, O=0, R=12, W=12, U=0, E=0)
+2023-06-08 16:46:15.506 INFO  <Ulangan Harian - Block this step until update class> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2023-06-08 16:46:27.398 INFO  <Ulangan Harian - Paper - Chapter> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 50000
+2023-06-08 16:46:27.485 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 50000
+2023-06-08 16:46:27.530 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 50000
+2023-06-08 16:46:27.535 INFO  <Ulangan Harian - Question Pakcage> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 50000
+2023-06-08 16:46:27.536 INFO  <Ulangan Harian - Paper Subject> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 50000
+2023-06-08 16:46:34.512 INFO  <Ulangan Harian - Paper - Chapter> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 100000
+2023-06-08 16:46:34.626 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 100000
+2023-06-08 16:46:34.644 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 100000
+2023-06-08 16:46:34.647 INFO  <Ulangan Harian - Question Pakcage> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 100000
+2023-06-08 16:46:34.664 INFO  <Ulangan Harian - Paper Subject> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 100000
+2023-06-08 16:46:34.683 INFO  <Ulangan Harian - Dummy (do nothing) 2> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Linenr 50000
+2023-06-08 16:46:34.683 INFO  <Ulangan Harian - Mapper> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 50000
+2023-06-08 16:46:34.775 INFO  <Ulangan Harian - Dummy (do nothing)> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Linenr 50000
+2023-06-08 16:46:51.113 INFO  <Ulangan Harian - Paper - Chapter> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 150000
+2023-06-08 16:46:51.197 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 150000
+2023-06-08 16:46:51.212 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 150000
+2023-06-08 16:46:51.218 INFO  <Ulangan Harian - Question Pakcage> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 150000
+2023-06-08 16:46:51.219 INFO  <Ulangan Harian - Paper Subject> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 150000
+2023-06-08 16:47:02.482 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 16:47:02.485 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=192308, W=192307, U=0, E=0)
+2023-06-08 16:47:02.487 INFO  <Ulangan Harian - Question Pakcage> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=192307, W=192307, U=0, E=0)
+2023-06-08 16:47:02.490 INFO  <Ulangan Harian - Paper - Chapter> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=193174, W=192307, U=0, E=0)
+2023-06-08 16:47:02.494 INFO  <Ulangan Harian - Paper Subject> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=192454, W=192307, U=0, E=0)
+2023-06-08 16:47:02.496 INFO  <Ulangan Harian - Mapper> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=96153, W=96153, U=0, E=0)
+2023-06-08 16:47:02.497 INFO  <Ulangan Harian - Dummy (do nothing) 2> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=96154, W=96154, U=0, E=0)
+2023-06-08 16:47:02.499 INFO  <Ulangan Harian - Dummy (do nothing)> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=96153, W=96153, U=0, E=0)
+2023-06-08 16:47:02.505 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=192307, O=0, R=0, W=192307, U=0, E=0)
+2023-06-08 16:54:59.536 INFO  <Thread-694> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Dispatching started for transformation [Ulangan Harian]
+2023-06-08 16:55:00.001 INFO  <Ulangan Harian - T/R. KP Question Package Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 16:55:00.033 INFO  <Ulangan Harian - T/O. Emw Class> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 16:55:00.036 INFO  <Ulangan Harian - Select values> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2023-06-08 16:55:00.040 INFO  <Ulangan Harian - T/R. KP Question Package Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=1, O=0, R=0, W=1, U=0, E=0)
+2023-06-08 16:55:00.050 INFO  <Ulangan Harian - T/R. Subject> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 16:55:00.053 INFO  <Ulangan Harian - T/O. Emw Class> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=12, O=0, R=0, W=12, U=0, E=0)
+2023-06-08 16:55:00.094 INFO  <Ulangan Harian - T/R. Subject> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=147, O=0, R=0, W=147, U=0, E=0)
+2023-06-08 16:55:00.095 INFO  <Ulangan Harian - T/R. Chapter> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 16:55:00.143 INFO  <Ulangan Harian - T/R. Chapter> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=867, O=0, R=0, W=867, U=0, E=0)
+2023-06-08 16:55:00.249 ERROR <Ulangan Harian - T/R. Question Package (Upsert)> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Unexpected error
+2023-06-08 16:55:00.249 ERROR <Ulangan Harian - T/R. Question Package (Upsert)> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  org.pentaho.di.core.exception.KettleDatabaseException: 
+No fields in row, can't insert!
+
+	at org.pentaho.di.core.database.Database.prepareInsert(Database.java:952)
+	at org.pentaho.di.trans.steps.insertupdate.InsertUpdate.processRow(InsertUpdate.java:283)
+	at org.pentaho.di.trans.step.RunThread.run(RunThread.java:62)
+	at java.lang.Thread.run(Thread.java:750)
+
+2023-06-08 16:55:00.249 INFO  <Ulangan Harian - Mapper> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=113, W=112, U=0, E=0)
+2023-06-08 16:55:00.250 INFO  <Ulangan Harian - T/R. Question Package (Upsert)> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=1, W=0, U=0, E=1)
+2023-06-08 16:55:00.250 WARN  <Ulangan Harian - T/R. Question Package (Upsert)> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Transformation detected one or more steps with errors.
+2023-06-08 16:55:00.250 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=832, W=831, U=0, E=0)
+2023-06-08 16:55:00.250 WARN  <Ulangan Harian - T/R. Question Package (Upsert)> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Transformation is killing the other steps!
+2023-06-08 16:55:00.250 INFO  <Ulangan Harian - Question Pakcage> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=731, W=731, U=0, E=0)
+2023-06-08 16:55:00.250 INFO  <Ulangan Harian - Paper Subject> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=677, W=530, U=0, E=0)
+2023-06-08 16:55:00.250 INFO  <Ulangan Harian - Dummy (do nothing)> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2023-06-08 16:55:00.250 INFO  <Ulangan Harian - Paper - Chapter> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=1498, W=631, U=0, E=0)
+2023-06-08 16:55:00.285 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 16:55:00.370 INFO  <Ulangan Harian - Update T/R Class> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=4, O=0, R=4, W=3, U=0, E=0)
+2023-06-08 16:55:32.050 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=859, O=0, R=0, W=857, U=0, E=0)
+2023-06-08 16:55:32.051 ERROR <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Errors detected!
+2023-06-08 16:55:32.052 ERROR <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Errors detected!
+2023-06-08 16:55:32.052 ERROR <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Errors detected!
+2023-06-08 16:57:31.253 INFO  <Thread-731> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Dispatching started for transformation [Ulangan Harian]
+2023-06-08 16:57:31.558 INFO  <Ulangan Harian - T/O. Emw Class> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 16:57:31.560 INFO  <Ulangan Harian - Select values> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2023-06-08 16:57:31.583 INFO  <Ulangan Harian - T/O. Emw Class> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=12, O=0, R=0, W=12, U=0, E=0)
+2023-06-08 16:57:31.588 INFO  <Ulangan Harian - T/R. KP Question Package Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 16:57:31.622 INFO  <Ulangan Harian - T/R. KP Question Package Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=1, O=0, R=0, W=1, U=0, E=0)
+2023-06-08 16:57:31.624 INFO  <Ulangan Harian - T/R. Subject> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 16:57:31.625 INFO  <Ulangan Harian - T/R. Chapter> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 16:57:31.652 INFO  <Ulangan Harian - T/R. Subject> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=147, O=0, R=0, W=147, U=0, E=0)
+2023-06-08 16:57:31.653 INFO  <Ulangan Harian - T/R. Chapter> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=867, O=0, R=0, W=867, U=0, E=0)
+2023-06-08 16:57:31.972 ERROR <Ulangan Harian - T/R. Question Package (Upsert)> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Error in step, asking everyone to stop because of:
+2023-06-08 16:57:31.973 ERROR <Ulangan Harian - T/R. Question Package (Upsert)> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  org.pentaho.di.core.exception.KettleDatabaseException: 
+Error inserting/updating row
+ERROR: column "total_question" is of type bigint but expression is of type character varying
+  Hint: You will need to rewrite or cast the expression.
+  Position: 171
+
+	at org.pentaho.di.core.database.Database.insertRow(Database.java:1335)
+	at org.pentaho.di.core.database.Database.insertRow(Database.java:1259)
+	at org.pentaho.di.core.database.Database.insertRow(Database.java:1247)
+	at org.pentaho.di.core.database.Database.insertRow(Database.java:1235)
+	at org.pentaho.di.trans.steps.insertupdate.InsertUpdate.lookupValues(InsertUpdate.java:114)
+	at org.pentaho.di.trans.steps.insertupdate.InsertUpdate.processRow(InsertUpdate.java:299)
+	at org.pentaho.di.trans.step.RunThread.run(RunThread.java:62)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: org.postgresql.util.PSQLException: ERROR: column "total_question" is of type bigint but expression is of type character varying
+  Hint: You will need to rewrite or cast the expression.
+  Position: 171
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2552)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2284)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:322)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:481)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:401)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:164)
+	at org.postgresql.jdbc.PgPreparedStatement.executeUpdate(PgPreparedStatement.java:130)
+	at org.pentaho.di.core.database.Database.insertRow(Database.java:1302)
+	... 7 more
+
+2023-06-08 16:57:31.973 INFO  <Ulangan Harian - Paper - Chapter> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=5520, W=4653, U=0, E=0)
+2023-06-08 16:57:31.973 INFO  <Ulangan Harian - Mapper> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=4452, W=4452, U=0, E=0)
+2023-06-08 16:57:31.973 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=4982, W=4981, U=0, E=0)
+2023-06-08 16:57:31.973 INFO  <Ulangan Harian - Dummy (do nothing)> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=2126, W=2126, U=0, E=0)
+2023-06-08 16:57:31.974 INFO  <Ulangan Harian - Paper Subject> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=4700, W=4553, U=0, E=0)
+2023-06-08 16:57:31.975 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 16:57:31.975 INFO  <Ulangan Harian - Question Pakcage> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=4881, W=4881, U=0, E=0)
+2023-06-08 16:57:32.007 INFO  <Ulangan Harian - T/R. Question Package (Upsert)> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=1, O=0, R=1, W=0, U=0, E=1)
+2023-06-08 16:57:32.007 WARN  <Ulangan Harian - T/R. Question Package (Upsert)> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Transformation detected one or more steps with errors.
+2023-06-08 16:57:32.007 WARN  <Ulangan Harian - T/R. Question Package (Upsert)> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Transformation is killing the other steps!
+2023-06-08 16:57:32.030 INFO  <Ulangan Harian - Update T/R Class> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=9, O=0, R=9, W=8, U=0, E=0)
+2023-06-08 16:57:48.606 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=5083, O=0, R=0, W=5081, U=0, E=0)
+2023-06-08 16:57:48.606 ERROR <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Errors detected!
+2023-06-08 16:57:48.607 ERROR <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Errors detected!
+2023-06-08 16:57:48.609 ERROR <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Errors detected!
+2023-06-08 17:01:43.849 INFO  <Thread-768> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Dispatching started for transformation [Ulangan Harian]
+2023-06-08 17:01:44.129 INFO  <Ulangan Harian - T/O. Emw Class> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 17:01:44.132 INFO  <Ulangan Harian - Select values> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2023-06-08 17:01:44.149 INFO  <Ulangan Harian - T/O. Emw Class> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=12, O=0, R=0, W=12, U=0, E=0)
+2023-06-08 17:01:44.157 INFO  <Ulangan Harian - T/R. KP Question Package Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 17:01:44.157 INFO  <Ulangan Harian - T/R. Subject> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 17:01:44.180 INFO  <Ulangan Harian - T/R. KP Question Package Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=1, O=0, R=0, W=1, U=0, E=0)
+2023-06-08 17:01:44.191 INFO  <Ulangan Harian - T/R. Subject> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=147, O=0, R=0, W=147, U=0, E=0)
+2023-06-08 17:01:44.198 INFO  <Ulangan Harian - T/R. Chapter> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 17:01:44.245 INFO  <Ulangan Harian - T/R. Chapter> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=867, O=0, R=0, W=867, U=0, E=0)
+2023-06-08 17:01:44.923 INFO  <Ulangan Harian - Update T/R Class> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=12, O=0, R=12, W=12, U=0, E=0)
+2023-06-08 17:01:45.090 INFO  <Ulangan Harian - Block this step until update class> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2023-06-08 17:01:52.625 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 50000
+2023-06-08 17:01:52.672 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 50000
+2023-06-08 17:01:52.715 INFO  <Ulangan Harian - Question Pakcage> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 50000
+2023-06-08 17:05:28.148 INFO  <Ulangan Harian - Paper - Chapter> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 50000
+2023-06-08 17:06:41.203 INFO  <Ulangan Harian - Dummy (do nothing)> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=16203, W=16203, U=0, E=0)
+2023-06-08 17:06:41.241 INFO  <Ulangan Harian - Mapper> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=32406, W=32406, U=0, E=0)
+2023-06-08 17:06:41.242 INFO  <Ulangan Harian - Question Pakcage> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=62409, W=62409, U=0, E=0)
+2023-06-08 17:06:41.242 INFO  <Ulangan Harian - Paper Subject> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=42554, W=42407, U=0, E=0)
+2023-06-08 17:06:41.242 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 17:06:41.242 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=72411, W=72410, U=0, E=0)
+2023-06-08 17:06:41.242 INFO  <Ulangan Harian - Paper - Chapter> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=53275, W=52408, U=0, E=0)
+2023-06-08 17:06:41.268 INFO  <Ulangan Harian - T/R. Question Package (Upsert)> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=6202, O=6202, R=6202, W=6201, U=0, E=0)
+2023-06-08 17:06:53.822 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=82412, O=0, R=0, W=82411, U=0, E=0)
+2023-06-08 17:12:46.947 INFO  <Thread-811> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Dispatching started for transformation [Ulangan Harian]
+2023-06-08 17:12:47.237 INFO  <Ulangan Harian - T/O. Emw Class> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 17:12:47.239 INFO  <Ulangan Harian - Select values> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2023-06-08 17:12:47.264 INFO  <Ulangan Harian - T/O. Emw Class> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=12, O=0, R=0, W=12, U=0, E=0)
+2023-06-08 17:12:47.265 INFO  <Ulangan Harian - T/R. Subject> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 17:12:47.268 INFO  <Ulangan Harian - T/R. KP Question Package Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 17:12:47.294 INFO  <Ulangan Harian - T/R. Chapter> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 17:12:47.305 INFO  <Ulangan Harian - T/R. KP Question Package Service> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=1, O=0, R=0, W=1, U=0, E=0)
+2023-06-08 17:12:47.305 INFO  <Ulangan Harian - T/R. Subject> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=147, O=0, R=0, W=147, U=0, E=0)
+2023-06-08 17:12:47.373 INFO  <Ulangan Harian - T/R. Chapter> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=867, O=0, R=0, W=867, U=0, E=0)
+2023-06-08 17:12:48.372 INFO  <Ulangan Harian - Update T/R Class> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=12, O=0, R=12, W=12, U=0, E=0)
+2023-06-08 17:12:48.392 INFO  <Ulangan Harian - Block this step until update class> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2023-06-08 17:12:55.428 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 50000
+2023-06-08 17:12:55.519 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 50000
+2023-06-08 17:20:48.453 INFO  <Ulangan Harian - Question Pakcage Mapper> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 50000
+2023-06-08 17:28:44.922 INFO  <Ulangan Harian - Paper - Chapter> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  linenr 50000
+2023-06-08 17:35:49.923 INFO  <Ulangan Harian - Question Pakcage Mapper> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=67033, W=67033, U=0, E=0)
+2023-06-08 17:35:49.923 INFO  <Ulangan Harian - Paper Subject> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=47178, W=47031, U=0, E=0)
+2023-06-08 17:35:49.924 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished reading query, closing connection
+2023-06-08 17:35:49.924 INFO  <Ulangan Harian - Paper Master - Question Package> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=77035, W=77034, U=0, E=0)
+2023-06-08 17:35:49.924 INFO  <Ulangan Harian - Paper - Chapter> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=57899, W=57032, U=0, E=0)
+2023-06-08 17:35:49.924 INFO  <Ulangan Harian - Paper Mapper> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=0, O=0, R=37030, W=37030, U=0, E=0)
+2023-06-08 17:35:49.952 INFO  <Ulangan Harian - T/R. Question Package (Upsert)> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=27029, O=27029, R=27029, W=27028, U=0, E=0)
+2023-06-08 17:36:00.079 INFO  <Ulangan Harian - T/O. Paper Master> [/media/Data/www/kelaspintar/revamp/migration/pentaho/Ulangan Harian/Tansform/Ulangan Harian.ktr]  Finished processing (I=87036, O=0, R=0, W=87035, U=0, E=0)
+2023-06-08 19:58:05.976 INFO  <ModalContext> [/Transformation 1.ktr]  Dispatching started for transformation [/Transformation 1]
+2023-06-08 19:58:06.002 INFO  </Transformation 1 - Table input> [/Transformation 1.ktr]  Finished reading query, closing connection
+2023-06-08 19:58:06.002 INFO  </Transformation 1 - Table input> [/Transformation 1.ktr]  Finished processing (I=2, O=0, R=0, W=2, U=0, E=0)
+2023-06-08 19:58:06.004 INFO  </Transformation 1 - dummy> [/Transformation 1.ktr]  Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2023-06-08 19:59:50.237 INFO  <Thread-34> [/media/Data/www/pentaho/TEst.ktr]  Dispatching started for transformation [TEst]
+2023-06-08 19:59:50.251 INFO  <TEst - Table input> [/media/Data/www/pentaho/TEst.ktr]  Finished reading query, closing connection
+2023-06-08 19:59:50.252 INFO  <TEst - Table input> [/media/Data/www/pentaho/TEst.ktr]  Finished processing (I=2, O=0, R=0, W=2, U=0, E=0)
+2023-06-08 19:59:50.254 INFO  <TEst - Select values> [/media/Data/www/pentaho/TEst.ktr]  Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2023-06-08 19:59:50.255 INFO  <TEst - Dummy (do nothing)> [/media/Data/www/pentaho/TEst.ktr]  Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2023-06-08 20:00:29.130 INFO  <Thread-45> [/media/Data/www/pentaho/TEst.ktr]  Dispatching started for transformation [TEst]
+2023-06-08 20:00:29.138 INFO  <TEst - Table input> [/media/Data/www/pentaho/TEst.ktr]  Finished reading query, closing connection
+2023-06-08 20:00:29.138 INFO  <TEst - Table input> [/media/Data/www/pentaho/TEst.ktr]  Finished processing (I=2, O=0, R=0, W=2, U=0, E=0)
+2023-06-08 20:00:29.141 INFO  <TEst - Select values> [/media/Data/www/pentaho/TEst.ktr]  Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2023-06-08 20:00:29.143 INFO  <TEst - Dummy (do nothing)> [/media/Data/www/pentaho/TEst.ktr]  Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2023-06-08 20:02:18.511 INFO  <Thread-59> [/media/Data/www/pentaho/TEst.ktr]  Dispatching started for transformation [TEst]
+2023-06-08 20:02:18.521 INFO  <TEst - Table input> [/media/Data/www/pentaho/TEst.ktr]  Finished reading query, closing connection
+2023-06-08 20:02:18.522 INFO  <TEst - Table input> [/media/Data/www/pentaho/TEst.ktr]  Finished processing (I=2, O=0, R=0, W=2, U=0, E=0)
+2023-06-08 20:02:18.522 ERROR <TEst - Update> [/media/Data/www/pentaho/TEst.ktr]  Unexpected error
+2023-06-08 20:02:18.522 ERROR <TEst - Update> [/media/Data/www/pentaho/TEst.ktr]  org.pentaho.di.core.exception.KettleStepException: 
+Field [1] is required and couldn't be found!
+
+	at org.pentaho.di.trans.steps.update.Update.processRow(Update.java:245)
+	at org.pentaho.di.trans.step.RunThread.run(RunThread.java:62)
+	at java.lang.Thread.run(Thread.java:750)
+
+2023-06-08 20:02:18.523 INFO  <TEst - Select values> [/media/Data/www/pentaho/TEst.ktr]  Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2023-06-08 20:02:18.523 INFO  <TEst - Dummy (do nothing)> [/media/Data/www/pentaho/TEst.ktr]  Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2023-06-08 20:02:18.524 INFO  <TEst - Update> [/media/Data/www/pentaho/TEst.ktr]  Finished processing (I=0, O=0, R=1, W=0, U=0, E=1)
+2023-06-08 20:02:18.524 ERROR <TEst - Update> [/media/Data/www/pentaho/TEst.ktr]  Errors detected!
+2023-06-08 20:02:18.525 ERROR <TEst - Update> [/media/Data/www/pentaho/TEst.ktr]  Errors detected!
+2023-06-08 20:02:18.546 ERROR <TEst - Update> [/media/Data/www/pentaho/TEst.ktr]  Errors detected!
+2023-06-08 20:02:18.548 WARN  <TEst - Update> [/media/Data/www/pentaho/TEst.ktr]  Transformation detected one or more steps with errors.
+2023-06-08 20:02:18.548 WARN  <TEst - Update> [/media/Data/www/pentaho/TEst.ktr]  Transformation is killing the other steps!
+2023-06-08 20:04:03.975 INFO  <Thread-75> [/media/Data/www/pentaho/TEst.ktr]  Dispatching started for transformation [TEst]
+2023-06-08 20:04:03.985 INFO  <TEst - Table input> [/media/Data/www/pentaho/TEst.ktr]  Finished reading query, closing connection
+2023-06-08 20:04:03.986 INFO  <TEst - Table input> [/media/Data/www/pentaho/TEst.ktr]  Finished processing (I=2, O=0, R=0, W=2, U=0, E=0)
+2023-06-08 20:04:03.988 INFO  <TEst - Select values> [/media/Data/www/pentaho/TEst.ktr]  Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2023-06-08 20:04:03.990 INFO  <TEst - Dummy (do nothing)> [/media/Data/www/pentaho/TEst.ktr]  Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2023-06-08 20:04:03.994 INFO  <TEst - Delete> [/media/Data/www/pentaho/TEst.ktr]  Finished processing (I=0, O=0, R=1, W=1, U=1, E=0)
+2023-06-08 20:04:22.391 INFO  <Thread-86> [/media/Data/www/pentaho/TEst.ktr]  Dispatching started for transformation [TEst]
+2023-06-08 20:04:22.397 INFO  <TEst - Table input> [/media/Data/www/pentaho/TEst.ktr]  Finished reading query, closing connection
+2023-06-08 20:04:22.397 INFO  <TEst - Table input> [/media/Data/www/pentaho/TEst.ktr]  Finished processing (I=1, O=0, R=0, W=1, U=0, E=0)
+2023-06-08 20:04:22.400 INFO  <TEst - Select values> [/media/Data/www/pentaho/TEst.ktr]  Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2023-06-08 20:04:22.401 INFO  <TEst - Dummy (do nothing)> [/media/Data/www/pentaho/TEst.ktr]  Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2023-06-08 20:04:58.807 INFO  <Thread-98> [/media/Data/www/pentaho/TEst.ktr]  Dispatching started for transformation [TEst]
+2023-06-08 20:04:58.815 INFO  <TEst - Table input> [/media/Data/www/pentaho/TEst.ktr]  Finished reading query, closing connection
+2023-06-08 20:04:58.815 INFO  <TEst - Table input> [/media/Data/www/pentaho/TEst.ktr]  Finished processing (I=1, O=0, R=0, W=1, U=0, E=0)
+2023-06-08 20:04:58.818 INFO  <TEst - Select values> [/media/Data/www/pentaho/TEst.ktr]  Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2023-06-08 20:04:58.819 INFO  <TEst - Dummy (do nothing)> [/media/Data/www/pentaho/TEst.ktr]  Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2023-06-08 20:05:27.757 INFO  <Thread-109> [/media/Data/www/pentaho/TEst.ktr]  Dispatching started for transformation [TEst]
+2023-06-08 20:05:27.765 INFO  <TEst - Table input> [/media/Data/www/pentaho/TEst.ktr]  Finished reading query, closing connection
+2023-06-08 20:05:27.768 INFO  <TEst - Table input> [/media/Data/www/pentaho/TEst.ktr]  Finished processing (I=3, O=0, R=0, W=3, U=0, E=0)
+2023-06-08 20:05:27.768 ERROR <TEst - Delete> [/media/Data/www/pentaho/TEst.ktr]  Unexpected error
+2023-06-08 20:05:27.768 ERROR <TEst - Delete> [/media/Data/www/pentaho/TEst.ktr]  org.pentaho.di.core.exception.KettleStepException: 
+Field [Agik] is required and couldn't be found!
+
+	at org.pentaho.di.trans.steps.delete.Delete.processRow(Delete.java:127)
+	at org.pentaho.di.trans.step.RunThread.run(RunThread.java:62)
+	at java.lang.Thread.run(Thread.java:750)
+
+2023-06-08 20:05:27.769 INFO  <TEst - Dummy (do nothing)> [/media/Data/www/pentaho/TEst.ktr]  Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2023-06-08 20:05:27.769 INFO  <TEst - Select values> [/media/Data/www/pentaho/TEst.ktr]  Finished processing (I=0, O=0, R=3, W=3, U=0, E=0)
+2023-06-08 20:05:27.770 INFO  <TEst - Delete> [/media/Data/www/pentaho/TEst.ktr]  Finished processing (I=0, O=0, R=1, W=0, U=0, E=1)
+2023-06-08 20:05:27.770 ERROR <TEst - Delete> [/media/Data/www/pentaho/TEst.ktr]  Errors detected!
+2023-06-08 20:05:27.770 ERROR <TEst - Delete> [/media/Data/www/pentaho/TEst.ktr]  Errors detected!
+2023-06-08 20:05:27.775 ERROR <TEst - Delete> [/media/Data/www/pentaho/TEst.ktr]  Errors detected!
+2023-06-08 20:05:27.776 WARN  <TEst - Delete> [/media/Data/www/pentaho/TEst.ktr]  Transformation detected one or more steps with errors.
+2023-06-08 20:05:27.776 WARN  <TEst - Delete> [/media/Data/www/pentaho/TEst.ktr]  Transformation is killing the other steps!
+2023-06-08 20:05:41.989 INFO  <Thread-121> [/media/Data/www/pentaho/TEst.ktr]  Dispatching started for transformation [TEst]
+2023-06-08 20:05:41.997 INFO  <TEst - Table input> [/media/Data/www/pentaho/TEst.ktr]  Finished reading query, closing connection
+2023-06-08 20:05:41.997 INFO  <TEst - Table input> [/media/Data/www/pentaho/TEst.ktr]  Finished processing (I=3, O=0, R=0, W=3, U=0, E=0)
+2023-06-08 20:05:41.998 ERROR <TEst - Delete> [/media/Data/www/pentaho/TEst.ktr]  Error in step, asking everyone to stop because of:
+Error inserting/updating row
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 2
+
+2023-06-08 20:05:41.998 INFO  <TEst - Delete> [/media/Data/www/pentaho/TEst.ktr]  Finished processing (I=0, O=0, R=1, W=0, U=0, E=1)
+2023-06-08 20:05:41.998 WARN  <TEst - Delete> [/media/Data/www/pentaho/TEst.ktr]  Transformation detected one or more steps with errors.
+2023-06-08 20:05:41.998 INFO  <TEst - Dummy (do nothing)> [/media/Data/www/pentaho/TEst.ktr]  Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2023-06-08 20:05:41.998 WARN  <TEst - Delete> [/media/Data/www/pentaho/TEst.ktr]  Transformation is killing the other steps!
+2023-06-08 20:05:41.999 INFO  <TEst - Select values> [/media/Data/www/pentaho/TEst.ktr]  Finished processing (I=0, O=0, R=3, W=3, U=0, E=0)
+2023-06-08 20:05:42.079 ERROR <TEst - Dummy (do nothing)> [/media/Data/www/pentaho/TEst.ktr]  Errors detected!
+2023-06-08 20:05:42.080 ERROR <TEst - Dummy (do nothing)> [/media/Data/www/pentaho/TEst.ktr]  Errors detected!
+2023-06-08 20:05:42.081 ERROR <TEst - Dummy (do nothing)> [/media/Data/www/pentaho/TEst.ktr]  Errors detected!
+2023-06-08 20:05:59.415 INFO  <Thread-133> [/media/Data/www/pentaho/TEst.ktr]  Dispatching started for transformation [TEst]
+2023-06-08 20:05:59.423 INFO  <TEst - Table input> [/media/Data/www/pentaho/TEst.ktr]  Finished reading query, closing connection
+2023-06-08 20:05:59.423 INFO  <TEst - Table input> [/media/Data/www/pentaho/TEst.ktr]  Finished processing (I=3, O=0, R=0, W=3, U=0, E=0)
+2023-06-08 20:05:59.427 INFO  <TEst - Select values> [/media/Data/www/pentaho/TEst.ktr]  Finished processing (I=0, O=0, R=3, W=3, U=0, E=0)
+2023-06-08 20:05:59.428 INFO  <TEst - Dummy (do nothing)> [/media/Data/www/pentaho/TEst.ktr]  Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2023-06-08 20:05:59.432 INFO  <TEst - Delete> [/media/Data/www/pentaho/TEst.ktr]  Finished processing (I=0, O=0, R=1, W=1, U=1, E=0)
+2023-06-08 20:16:46.549 WARN  <Thread-17> [/media/Data/www/pentaho/Job 1.kjb]  Start of job execution
+2023-06-08 20:16:46.568 INFO  <Thread-17> [/media/Data/www/pentaho/Job 1.kjb]  Starting entry [Transformation]
+2023-06-08 20:16:46.577 INFO  <Thread-17> [/media/Data/www/pentaho/Job 1.kjb]  Using run configuration [Pentaho local]
+2023-06-08 20:16:46.582 INFO  <Thread-17> [/media/Data/www/pentaho/Job 1.kjb  /media/Data/www/pentaho/TEst.ktr]  Dispatching started for transformation [TEst]
+2023-06-08 20:16:46.773 INFO  <TEst - Table input> [/media/Data/www/pentaho/Job 1.kjb  /media/Data/www/pentaho/TEst.ktr]  Finished reading query, closing connection
+2023-06-08 20:16:46.776 INFO  <TEst - Select values> [/media/Data/www/pentaho/Job 1.kjb  /media/Data/www/pentaho/TEst.ktr]  Finished processing (I=0, O=0, R=4, W=4, U=0, E=0)
+2023-06-08 20:16:46.779 INFO  <TEst - Table input> [/media/Data/www/pentaho/Job 1.kjb  /media/Data/www/pentaho/TEst.ktr]  Finished processing (I=4, O=0, R=0, W=4, U=0, E=0)
+2023-06-08 20:16:46.779 INFO  <TEst - Dummy (do nothing)> [/media/Data/www/pentaho/Job 1.kjb  /media/Data/www/pentaho/TEst.ktr]  Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2023-06-08 20:16:46.798 INFO  <TEst - Delete> [/media/Data/www/pentaho/Job 1.kjb  /media/Data/www/pentaho/TEst.ktr]  Finished processing (I=0, O=0, R=2, W=2, U=2, E=0)
+2023-06-08 20:16:46.800 INFO  <Thread-17> [/media/Data/www/pentaho/Job 1.kjb]  Finished job entry [Transformation] (result=[true])
+2023-06-08 20:16:46.801 WARN  <Thread-17> [/media/Data/www/pentaho/Job 1.kjb]  Job execution finished
+2023-06-08 20:31:52.766 WARN  <Thread-9> [/media/Data/www/pentaho/Job 1.kjb]  Start of job execution
+2023-06-08 20:31:52.793 INFO  <Thread-9> [/media/Data/www/pentaho/Job 1.kjb]  Starting entry [Transformation]
+2023-06-08 20:31:52.932 INFO  <Thread-9> [/media/Data/www/pentaho/Job 1.kjb]  Using run configuration [Pentaho local]
+2023-06-08 20:31:52.938 INFO  <Thread-9> [/media/Data/www/pentaho/Job 1.kjb  /media/Data/www/pentaho/TEst.ktr]  Dispatching started for transformation [TEst]
+2023-06-08 20:31:53.104 INFO  <TEst - Table input> [/media/Data/www/pentaho/Job 1.kjb  /media/Data/www/pentaho/TEst.ktr]  Finished reading query, closing connection
+2023-06-08 20:31:53.106 INFO  <TEst - Select values> [/media/Data/www/pentaho/Job 1.kjb  /media/Data/www/pentaho/TEst.ktr]  Finished processing (I=0, O=0, R=5, W=5, U=0, E=0)
+2023-06-08 20:31:53.108 INFO  <TEst - Table input> [/media/Data/www/pentaho/Job 1.kjb  /media/Data/www/pentaho/TEst.ktr]  Finished processing (I=5, O=0, R=0, W=5, U=0, E=0)
+2023-06-08 20:31:53.109 INFO  <TEst - Dummy (do nothing)> [/media/Data/www/pentaho/Job 1.kjb  /media/Data/www/pentaho/TEst.ktr]  Finished processing (I=0, O=0, R=3, W=3, U=0, E=0)
+2023-06-08 20:31:53.119 INFO  <TEst - Delete> [/media/Data/www/pentaho/Job 1.kjb  /media/Data/www/pentaho/TEst.ktr]  Finished processing (I=0, O=0, R=2, W=2, U=2, E=0)
+2023-06-08 20:31:53.122 INFO  <Thread-9> [/media/Data/www/pentaho/Job 1.kjb]  Finished job entry [Transformation] (result=[true])
+2023-06-08 20:31:53.122 WARN  <Thread-9> [/media/Data/www/pentaho/Job 1.kjb]  Job execution finished
+2023-06-08 14:10:15.384 WARN  <Thread-7> [/var/www/data/Job 1.kjb]  Start of job execution
+2023-06-08 14:10:15.467 INFO  <Thread-7> [/var/www/data/Job 1.kjb]  Starting entry [Transformation]
+2023-06-08 14:10:15.600 INFO  <Thread-7> [/var/www/data/Job 1.kjb]  Using run configuration [Pentaho local]
+2023-06-08 14:10:15.606 INFO  <Thread-7> [/var/www/data/Job 1.kjb  /var/www/data/TEst.ktr]  Dispatching started for transformation [TEst]
+2023-06-08 14:10:15.773 INFO  <TEst - Table input> [/var/www/data/Job 1.kjb  /var/www/data/TEst.ktr]  Finished reading query, closing connection
+2023-06-08 14:10:15.776 INFO  <TEst - Select values> [/var/www/data/Job 1.kjb  /var/www/data/TEst.ktr]  Finished processing (I=0, O=0, R=6, W=6, U=0, E=0)
+2023-06-08 14:10:15.777 INFO  <TEst - Table input> [/var/www/data/Job 1.kjb  /var/www/data/TEst.ktr]  Finished processing (I=6, O=0, R=0, W=6, U=0, E=0)
+2023-06-08 14:10:15.778 INFO  <TEst - Dummy (do nothing)> [/var/www/data/Job 1.kjb  /var/www/data/TEst.ktr]  Finished processing (I=0, O=0, R=3, W=3, U=0, E=0)
+2023-06-08 14:10:15.790 INFO  <TEst - Delete> [/var/www/data/Job 1.kjb  /var/www/data/TEst.ktr]  Finished processing (I=0, O=0, R=3, W=3, U=3, E=0)
+2023-06-08 14:10:15.793 INFO  <Thread-7> [/var/www/data/Job 1.kjb]  Finished job entry [Transformation] (result=[true])
+2023-06-08 14:10:15.794 WARN  <Thread-7> [/var/www/data/Job 1.kjb]  Job execution finished
